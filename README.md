@@ -39,7 +39,7 @@ By answering these questions, the business can identify its best- and worst-perf
 ![Top Bottom Page](https://github.com/user-attachments/assets/d9b3714b-5475-4c26-ad49-5c99f8fec89c)
 
 ### Sale Trend Page
-![Sale Trend Page]((https://github.com/user-attachments/assets/383ac42c-4e01-42ce-a572-cd840ef30c5e))
+![Sale Trend Page](https://github.com/user-attachments/assets/1f236900-ccdc-475d-bec3-774129de80a1)
 
 ### Compare with Dates Page
 ![Compare With Dates Page](https://github.com/user-attachments/assets/0581448f-d25c-4fc4-9290-fd1ff00c68c5)
