@@ -33,7 +33,7 @@ By answering these questions, the business can identify its best- and worst-perf
 ## Dashboard Screenshots
 
 ### Overview Page
-![Overview Page](images/overview.png)
+![Overview Page](https://github.com/user-attachments/assets/97e85c25-9a61-484d-94b2-f0bec79e80d6)
 
 ### Top/Bottom Products Page
 ![Top Bottom Page](images/top_bottom.png)
