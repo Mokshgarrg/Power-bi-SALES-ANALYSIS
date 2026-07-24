@@ -36,16 +36,16 @@ By answering these questions, the business can identify its best- and worst-perf
 ![Overview Page](https://github.com/user-attachments/assets/97e85c25-9a61-484d-94b2-f0bec79e80d6)
 
 ### Top/Bottom Products Page
-![Top Bottom Page](images/top_bottom.png)
+![Top Bottom Page](https://github.com/user-attachments/assets/d9b3714b-5475-4c26-ad49-5c99f8fec89c)
 
 ### Sale Trend Page
-![Sale Trend Page](images/sale_trend.png)
+![Sale Trend Page]((https://github.com/user-attachments/assets/383ac42c-4e01-42ce-a572-cd840ef30c5e))
 
 ### Compare with Dates Page
-![Compare With Dates Page](images/compare_with_dates.png)
+![Compare With Dates Page](https://github.com/user-attachments/assets/0581448f-d25c-4fc4-9290-fd1ff00c68c5)
 
 ### Table (Order Detail) Page
-![Table Page](images/table.png)
+![Table Page](https://github.com/user-attachments/assets/4aabbc39-9f9f-4163-ad59-775a463d64a0)
 
 ## Insights
 
