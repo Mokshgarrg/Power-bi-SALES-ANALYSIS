@@ -30,6 +30,23 @@ By answering these questions, the business can identify its best- and worst-perf
 - **Step 9:** Built a **table** page with a detailed order-level table (CustomerID, Date, Discount Percentage, Discount Value, Net Sales, PROFIT, Product ID, PromotionID, Total Sales, Units Sold), filterable using Date, Customer Name, Product Name, and Promotion Name slicers.
 - **Step 10:** Applied a consistent report theme and formatting across all visuals and pages for a clean, professional look.
 
+## Dashboard Screenshots
+
+### Overview Page
+![Overview Page](images/overview.png)
+
+### Top/Bottom Products Page
+![Top Bottom Page](images/top_bottom.png)
+
+### Sale Trend Page
+![Sale Trend Page](images/sale_trend.png)
+
+### Compare with Dates Page
+![Compare With Dates Page](images/compare_with_dates.png)
+
+### Table (Order Detail) Page
+![Table Page](images/table.png)
+
 ## Insights
 
 ### Overall Performance
